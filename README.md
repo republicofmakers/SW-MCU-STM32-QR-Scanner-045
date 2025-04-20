@@ -17,7 +17,7 @@ Here is a test code for a QR scanner module.(yhd-m900d is used)
 
 <img width="475" alt="scan" src="https://github.com/user-attachments/assets/cce55038-22b4-420a-b84f-a3a2524219cd" />
 
-(Scanning)	
+(Ready to Scan)	
 
 <img width="431" alt="result" src="https://github.com/user-attachments/assets/24442e36-a47d-44ed-9a1a-edfe8c9cf520" />
 
