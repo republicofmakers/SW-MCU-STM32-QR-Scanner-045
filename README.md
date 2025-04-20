@@ -1,0 +1,1 @@
+# SW-MCU-STM32-QR-Scanner-045
